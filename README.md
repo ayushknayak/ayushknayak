@@ -2,11 +2,42 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Ayush%20Kumar%20Nayak;Software%20Engineering%20Student;Full-Stack%20Developer;Building%20Real-World%20Projects&font=Fira%20Code&center=true&width=700&height=50&color=ff7a1a&vCenter=true&pause=900&size=28" />
 </div>
 
-<h3>Backend-focused developer passionate about building real-world applications and scalable systems. Currently sharpening my problem-solving skills, exploring system design, and turning ideas into practical software.</h3><ul>
-</ul>
+<h3 align="center">Backend-focused developer passionate about building real-world applications and scalable systems. Currently sharpening my problem-solving skills, exploring system design, and turning ideas into practical software.</h3>
 
-Tech Stack
-Languages:
+<p align="center">
+🔭 Currently building a <b>banking transaction system</b> and a <b>URL shortener</b> with the MERN stack &nbsp;|&nbsp;
+🌱 Learning AWS Developer Associate / CloudOps concepts &nbsp;|&nbsp;
+🤝 Open to collaborating on open-source web projects & hackathons
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ayushknayak/Banking-Transaction-System">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=Banking-Transaction-System&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/ayushknayak/URL-Shortener-Backend">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=URL-Shortener-Backend&theme=tokyonight&hide_border=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ayushknayak/URL-Shortener-Frontend">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=URL-Shortener-Frontend&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/ayushknayak/careerconnect">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=careerconnect&theme=tokyonight&hide_border=false" />
+  </a>
+</p>
+
+> 💡 Add a one-line description + live demo link to each repo on GitHub so these pinned cards show more context to visitors.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -14,7 +45,8 @@ Languages:
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
-Libraries & Frameworks:
+
+**Libraries & Frameworks**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -25,7 +57,8 @@ Libraries & Frameworks:
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
-Tools & Platforms:
+
+**Tools & Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -36,16 +69,37 @@ Tools & Platforms:
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
-Databases:
+
+**Databases**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
-Connect With Me
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayushknayak&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushknayak&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushknayak&theme=tokyonight&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushknayak&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://github.com/ayushknayak"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="34" height="34" /></a>
+  <a href="https://linkedin.com/in/ayushknayak"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" style="margin-left: 12px;" /></a>
+  <a href="mailto:ayushnayak9024@gmail.com"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" alt="Email" width="34" height="34" style="margin-left: 12px;" /></a>
 </p>
 
 <p align="center">
