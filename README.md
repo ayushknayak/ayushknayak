@@ -5,7 +5,7 @@
 <h3 align="center">Backend-focused developer passionate about building real-world applications and scalable systems. Currently sharpening my problem-solving skills, exploring system design, and turning ideas into practical software.</h3>
 
 <p align="center">
-🔭 Currently building a <b>real world problem solution</b>should live soon</b> with the MERN stack &nbsp;|&nbsp;
+🔭 Currently building a <b>real world problem solution</b> should live soon</b> with the my MERN stack Knowledge&nbsp;|&nbsp;
 🌱 AWS Cloudops Associate,Data Engineer,Cloud Practioner,Ai Practitoner Certified &nbsp;|&nbsp;
 🤝 Open to collaborating on open-source web projects & hackathons
 </p>
