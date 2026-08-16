@@ -5,33 +5,10 @@
 <h3 align="center">Backend-focused developer passionate about building real-world applications and scalable systems. Currently sharpening my problem-solving skills, exploring system design, and turning ideas into practical software.</h3>
 
 <p align="center">
-🔭 Currently building a <b>banking transaction system</b> and a <b>URL shortener</b> with the MERN stack &nbsp;|&nbsp;
-🌱 Learning AWS Developer Associate / CloudOps concepts &nbsp;|&nbsp;
+🔭 Currently building a <b>real world problem solution</b>should live soon</b> with the MERN stack &nbsp;|&nbsp;
+🌱 AWS Cloudops Associate,Data Engineer,Cloud Practioner,Ai Practitoner Certified &nbsp;|&nbsp;
 🤝 Open to collaborating on open-source web projects & hackathons
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ayushknayak/Banking-Transaction-System">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=Banking-Transaction-System&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/ayushknayak/URL-Shortener-Backend">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=URL-Shortener-Backend&theme=tokyonight&hide_border=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ayushknayak/URL-Shortener-Frontend">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=URL-Shortener-Frontend&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/ayushknayak/careerconnect">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushknayak&repo=careerconnect&theme=tokyonight&hide_border=false" />
-  </a>
-</p>
-
-> 💡 Add a one-line description + live demo link to each repo on GitHub so these pinned cards show more context to visitors.
 
 ---
 
@@ -79,27 +56,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayushknayak&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushknayak&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushknayak&theme=tokyonight&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushknayak&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ayushknayak"><img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" alt="GitHub" width="34" height="34" /></a>
-  <a href="https://linkedin.com/in/ayushknayak"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" style="margin-left: 12px;" /></a>
-  <a href="mailto:ayushnayak9024@gmail.com"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" alt="Email" width="34" height="34" style="margin-left: 12px;" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ayushknayak"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="34" height="34" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ayushnayak9024@gmail.com"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" alt="Email" width="34" height="34" /></a>
 </p>
 
 <p align="center">
